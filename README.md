@@ -16,3 +16,8 @@
     - `/search` - 搜索手上的物品
     - `/search <type>` - 搜索指定的物品, 使用的是`minecraft:stone`这样的注册名
     - `/search <type> <radius>` - 搜索附近`radius`格的箱子是否存在物品`type`
+## 支持的语言
+- en_US (默认语言)
+- zh_CN
+
+语言通过AdventureAPI会自动选择需要的语言
