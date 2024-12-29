@@ -7,7 +7,6 @@ import net.kyori.adventure.util.UTF8ResourceBundleControl
 import org.bukkit.Bukkit
 import org.bukkit.plugin.java.JavaPlugin
 import org.slf4j.LoggerFactory
-import java.nio.charset.Charset
 import java.util.*
 
 class ChestSearcher : JavaPlugin() {

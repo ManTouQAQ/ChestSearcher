@@ -2,7 +2,6 @@ package me.mantou.chestsearcher
 
 import io.netty.channel.ChannelHandlerContext
 import io.netty.channel.ChannelInboundHandlerAdapter
-import net.kyori.adventure.text.Component
 import net.minecraft.network.protocol.game.ServerboundInteractPacket
 import org.bukkit.Bukkit
 import org.bukkit.block.Container
